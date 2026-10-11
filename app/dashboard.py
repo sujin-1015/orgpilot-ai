@@ -130,7 +130,7 @@ with tab2:
     view["headcount_gap"] = view["recommended_to"] - view["headcount"]
     view["action"] = view["headcount_gap"].map(S.action_label)
     stab = res.stability.set_index("department_id")["stable"]
-    view["stable"] = view["department_id"].map(stab).map({True: "안정", False: "재검토 필요"})
+    view["stable"] = view["department_id"].map(stab).map({True: "안정", False: "재검토"})
 
     c1, c2, c3, c4 = st.columns(4)
     c1.metric("권장 정원 합계", f"{view['recommended_to'].sum()}명",
@@ -162,14 +162,14 @@ with tab2:
         st.plotly_chart(fig, width="stretch")
     with right:
         st.dataframe(
-            view[["name", "headcount", "approved_to", "forecast_fte", "recommended_to", "headcount_gap", "action", "stable"]],
+            view[["name", "headcount", "forecast_fte", "recommended_to", "headcount_gap", "action", "stable"]],
             hide_index=True, width="stretch", height=330,
             column_config={"name": "조직", "headcount": "현원", "approved_to": "현행 정원",
                            "forecast_fte": st.column_config.NumberColumn("필요 FTE", format="%.1f"),
                            "recommended_to": "권장 정원", "headcount_gap": "인원 격차", "action": "판단",
                            "stable": "±10% 판단"},
         )
-    st.caption("빨강 = 충원 필요 · 파랑 = 재배치 검토. '±10% 판단'이 '재검토 필요'인 조직은 예측 오차 범위 안에서 판단 방향이 바뀝니다.")
+    st.caption("빨강 = 충원 필요 · 파랑 = 재배치 검토. '±10% 판단'이 '재검토'인 조직은 예측 오차 범위 안에서 판단 방향이 바뀝니다.")
 
     st.divider()
     sel = st.selectbox("조직 상세", staff["name"].tolist())
