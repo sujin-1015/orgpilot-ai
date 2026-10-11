@@ -1,0 +1,9 @@
+﻿department_id,name,function,current_headcount
+D01,SI사업1팀,SI,55
+D02,SI사업2팀,SI,48
+D03,클라우드인프라팀,Cloud,38
+D04,AI서비스팀,AI,24
+D05,PMO팀,PM,30
+D06,IT운영팀,Ops,50
+D07,정보보안팀,Security,22
+D08,경영지원팀,Support,33

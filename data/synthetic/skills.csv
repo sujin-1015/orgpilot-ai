@@ -1,0 +1,1200 @@
+﻿employee_id,skill,proficiency
+E0001,ERP/Business,2
+E0001,Project Management,4
+E0001,Python,4
+E0002,SQL,3
+E0002,Python,3
+E0002,Information Security,2
+E0003,Python,3
+E0003,Kubernetes,3
+E0003,Data Analysis,4
+E0003,ERP/Business,5
+E0004,SQL,2
+E0004,Information Security,3
+E0004,ML/DL,3
+E0004,Java,3
+E0005,Cloud(AWS/Azure),5
+E0005,ML/DL,3
+E0005,Project Management,4
+E0005,SQL,2
+E0005,Python,3
+E0006,Python,2
+E0006,SQL,4
+E0006,Java,3
+E0006,Network,4
+E0006,Kubernetes,3
+E0007,Python,3
+E0007,Data Analysis,3
+E0007,SQL,4
+E0008,Cloud(AWS/Azure),2
+E0008,Java,2
+E0008,Python,4
+E0009,SQL,2
+E0009,Java,3
+E0009,Python,1
+E0010,Data Analysis,3
+E0010,SQL,3
+E0010,Cloud(AWS/Azure),4
+E0010,Project Management,4
+E0010,Python,4
+E0011,Java,4
+E0011,Cloud(AWS/Azure),5
+E0011,Python,5
+E0011,ERP/Business,5
+E0011,SQL,5
+E0012,SQL,2
+E0012,Python,2
+E0012,Information Security,1
+E0012,ERP/Business,2
+E0013,Java,4
+E0013,Python,2
+E0013,SQL,4
+E0013,ERP/Business,3
+E0014,Python,3
+E0014,SQL,3
+E0014,ERP/Business,3
+E0014,ITSM,4
+E0014,Data Analysis,3
+E0015,ERP/Business,3
+E0015,Java,2
+E0015,Python,4
+E0015,Information Security,2
+E0016,Python,3
+E0016,Java,1
+E0016,SQL,3
+E0017,Data Analysis,2
+E0017,Python,2
+E0017,ERP/Business,4
+E0018,Python,5
+E0018,SQL,3
+E0018,Cloud(AWS/Azure),3
+E0018,Kubernetes,2
+E0018,ERP/Business,3
+E0019,SQL,2
+E0019,Cloud(AWS/Azure),3
+E0019,ITSM,2
+E0019,Java,2
+E0020,Python,5
+E0020,Cloud(AWS/Azure),4
+E0020,Java,5
+E0021,Python,4
+E0021,Java,4
+E0021,Data Analysis,4
+E0021,Project Management,4
+E0022,Java,2
+E0022,SQL,4
+E0022,Python,3
+E0023,Project Management,3
+E0023,Cloud(AWS/Azure),3
+E0023,Data Analysis,3
+E0024,Java,4
+E0024,Python,3
+E0024,SQL,4
+E0024,Data Analysis,5
+E0024,ML/DL,5
+E0025,Project Management,5
+E0025,SQL,3
+E0025,Cloud(AWS/Azure),5
+E0025,Java,4
+E0026,ERP/Business,4
+E0026,Python,3
+E0026,Project Management,3
+E0026,SQL,4
+E0027,SQL,4
+E0027,Project Management,1
+E0027,Information Security,2
+E0028,SQL,4
+E0028,Project Management,4
+E0028,Kubernetes,4
+E0028,Java,3
+E0029,Java,3
+E0029,Data Analysis,4
+E0029,SQL,3
+E0029,ERP/Business,4
+E0030,Cloud(AWS/Azure),5
+E0030,Python,2
+E0030,Kubernetes,2
+E0030,Java,2
+E0031,ERP/Business,3
+E0031,ITSM,3
+E0031,Java,3
+E0031,Information Security,3
+E0032,Java,3
+E0032,ERP/Business,3
+E0032,Cloud(AWS/Azure),4
+E0033,Project Management,4
+E0033,ERP/Business,2
+E0033,SQL,4
+E0034,Java,2
+E0034,Data Analysis,3
+E0034,ERP/Business,2
+E0035,Java,3
+E0035,ERP/Business,4
+E0035,SQL,4
+E0035,Project Management,4
+E0036,ERP/Business,3
+E0036,Python,5
+E0036,SQL,5
+E0037,Cloud(AWS/Azure),5
+E0037,SQL,4
+E0037,Java,2
+E0037,Python,3
+E0037,Project Management,3
+E0038,SQL,4
+E0038,Cloud(AWS/Azure),3
+E0038,Java,3
+E0038,Data Analysis,3
+E0039,Python,3
+E0039,Network,4
+E0039,Java,1
+E0039,SQL,3
+E0040,Cloud(AWS/Azure),5
+E0040,Python,3
+E0040,Java,2
+E0040,ERP/Business,3
+E0041,SQL,2
+E0041,Java,4
+E0041,Information Security,2
+E0041,ERP/Business,4
+E0041,Kubernetes,2
+E0042,Python,5
+E0042,Java,3
+E0042,ERP/Business,5
+E0043,Network,3
+E0043,Cloud(AWS/Azure),3
+E0043,Kubernetes,2
+E0044,Project Management,3
+E0044,Network,3
+E0044,SQL,3
+E0045,ERP/Business,3
+E0045,Cloud(AWS/Azure),3
+E0045,Java,2
+E0046,Python,1
+E0046,Java,4
+E0046,ML/DL,4
+E0046,Cloud(AWS/Azure),2
+E0047,Python,5
+E0047,Data Analysis,2
+E0047,SQL,3
+E0047,Project Management,5
+E0048,ERP/Business,2
+E0048,SQL,3
+E0048,Project Management,3
+E0048,Python,3
+E0048,Java,1
+E0049,Network,3
+E0049,Data Analysis,5
+E0049,Project Management,3
+E0049,Python,3
+E0050,ERP/Business,3
+E0050,Kubernetes,1
+E0050,Java,3
+E0050,Network,3
+E0050,Project Management,3
+E0051,ERP/Business,3
+E0051,Java,1
+E0051,SQL,3
+E0051,Python,2
+E0052,Java,3
+E0052,Python,5
+E0052,SQL,4
+E0052,Cloud(AWS/Azure),4
+E0052,Project Management,4
+E0053,Cloud(AWS/Azure),3
+E0053,Java,3
+E0053,Python,2
+E0053,ERP/Business,3
+E0053,SQL,3
+E0054,Project Management,4
+E0054,Java,4
+E0054,SQL,4
+E0054,Python,5
+E0054,Cloud(AWS/Azure),2
+E0055,SQL,2
+E0055,Java,3
+E0055,Python,2
+E0055,Cloud(AWS/Azure),3
+E0055,ITSM,3
+E0056,SQL,3
+E0056,Java,4
+E0056,Project Management,1
+E0056,ERP/Business,2
+E0057,SQL,3
+E0057,Data Analysis,3
+E0057,Python,3
+E0057,Java,3
+E0058,Cloud(AWS/Azure),3
+E0058,Information Security,4
+E0058,Python,3
+E0059,Cloud(AWS/Azure),4
+E0059,ERP/Business,3
+E0059,Java,3
+E0059,Project Management,4
+E0060,Java,5
+E0060,Python,5
+E0060,Data Analysis,4
+E0060,Information Security,5
+E0061,ERP/Business,3
+E0061,Python,3
+E0061,Cloud(AWS/Azure),2
+E0061,Java,3
+E0061,Information Security,2
+E0062,Python,3
+E0062,Cloud(AWS/Azure),2
+E0062,Java,2
+E0062,Network,3
+E0063,SQL,4
+E0063,Python,3
+E0063,Project Management,3
+E0063,Cloud(AWS/Azure),3
+E0063,Java,2
+E0064,Java,4
+E0064,SQL,1
+E0064,Data Analysis,3
+E0064,ITSM,4
+E0064,Kubernetes,2
+E0065,Data Analysis,3
+E0065,Python,4
+E0065,ERP/Business,3
+E0066,SQL,3
+E0066,Cloud(AWS/Azure),4
+E0066,ERP/Business,3
+E0067,ERP/Business,3
+E0067,Java,3
+E0067,Python,3
+E0068,Java,4
+E0068,Python,2
+E0068,SQL,2
+E0068,ERP/Business,4
+E0069,ERP/Business,4
+E0069,Python,2
+E0069,Java,1
+E0070,Java,3
+E0070,Python,1
+E0070,Network,3
+E0070,Cloud(AWS/Azure),3
+E0070,Data Analysis,2
+E0071,Java,5
+E0071,Information Security,5
+E0071,SQL,5
+E0071,Python,5
+E0071,Project Management,3
+E0072,SQL,3
+E0072,Cloud(AWS/Azure),3
+E0072,Java,3
+E0073,Java,4
+E0073,Python,4
+E0073,ERP/Business,4
+E0073,Data Analysis,1
+E0073,Cloud(AWS/Azure),4
+E0074,Java,3
+E0074,Project Management,4
+E0074,Cloud(AWS/Azure),5
+E0075,Java,3
+E0075,Python,3
+E0075,SQL,4
+E0075,Cloud(AWS/Azure),2
+E0076,SQL,3
+E0076,ERP/Business,1
+E0076,Java,3
+E0076,ML/DL,2
+E0076,Information Security,2
+E0077,SQL,4
+E0077,Data Analysis,3
+E0077,ERP/Business,3
+E0077,Java,4
+E0078,Kubernetes,2
+E0078,Python,2
+E0078,Java,2
+E0078,Network,3
+E0079,Java,3
+E0079,SQL,3
+E0079,Data Analysis,4
+E0079,ERP/Business,4
+E0079,Cloud(AWS/Azure),3
+E0080,Cloud(AWS/Azure),4
+E0080,SQL,3
+E0080,ERP/Business,3
+E0080,Network,2
+E0080,Java,2
+E0081,Data Analysis,4
+E0081,SQL,3
+E0081,Java,3
+E0082,Project Management,4
+E0082,Network,3
+E0082,Python,3
+E0082,Java,2
+E0082,ITSM,3
+E0083,ERP/Business,3
+E0083,Python,2
+E0083,Data Analysis,1
+E0083,Java,1
+E0084,ML/DL,5
+E0084,Kubernetes,4
+E0084,ERP/Business,4
+E0084,SQL,5
+E0085,Project Management,4
+E0085,Information Security,3
+E0085,SQL,4
+E0085,Java,4
+E0085,Network,4
+E0086,Python,4
+E0086,SQL,5
+E0086,Data Analysis,4
+E0086,Java,4
+E0087,Java,2
+E0087,Data Analysis,2
+E0087,Information Security,4
+E0088,Python,3
+E0088,Java,3
+E0088,SQL,3
+E0089,ERP/Business,2
+E0089,Network,3
+E0089,Java,3
+E0090,Data Analysis,2
+E0090,Python,2
+E0090,Cloud(AWS/Azure),1
+E0090,SQL,2
+E0090,Java,3
+E0091,Python,4
+E0091,Java,3
+E0091,ITSM,5
+E0091,Data Analysis,4
+E0092,Java,3
+E0092,ML/DL,2
+E0092,Python,2
+E0092,Cloud(AWS/Azure),2
+E0092,SQL,2
+E0093,ERP/Business,5
+E0093,Python,5
+E0093,Cloud(AWS/Azure),5
+E0093,Java,5
+E0093,Project Management,4
+E0094,Project Management,3
+E0094,Python,4
+E0094,ERP/Business,3
+E0094,SQL,3
+E0094,ITSM,4
+E0095,SQL,3
+E0095,Cloud(AWS/Azure),2
+E0095,ERP/Business,4
+E0095,Network,5
+E0096,Java,3
+E0096,Python,2
+E0096,Information Security,3
+E0096,Cloud(AWS/Azure),3
+E0097,ERP/Business,4
+E0097,Java,3
+E0097,Cloud(AWS/Azure),2
+E0097,Python,4
+E0097,SQL,1
+E0098,Java,3
+E0098,ITSM,2
+E0098,Cloud(AWS/Azure),2
+E0099,Java,3
+E0099,Cloud(AWS/Azure),2
+E0099,ITSM,1
+E0099,Python,1
+E0099,ERP/Business,3
+E0100,Information Security,1
+E0100,Java,3
+E0100,Network,2
+E0100,Python,2
+E0100,ML/DL,2
+E0101,Python,4
+E0101,Java,3
+E0101,ERP/Business,3
+E0101,Cloud(AWS/Azure),5
+E0101,Project Management,2
+E0102,ERP/Business,3
+E0102,Python,3
+E0102,ML/DL,2
+E0103,Python,3
+E0103,SQL,3
+E0103,ERP/Business,3
+E0104,Cloud(AWS/Azure),2
+E0104,ITSM,4
+E0104,Java,4
+E0104,Network,2
+E0104,Information Security,4
+E0105,Information Security,2
+E0105,Kubernetes,3
+E0105,Cloud(AWS/Azure),4
+E0106,Data Analysis,3
+E0106,Python,2
+E0106,SQL,3
+E0106,Cloud(AWS/Azure),1
+E0106,ITSM,4
+E0107,ITSM,3
+E0107,Kubernetes,2
+E0107,Project Management,5
+E0108,Cloud(AWS/Azure),2
+E0108,Kubernetes,3
+E0108,ITSM,4
+E0108,Network,3
+E0109,ITSM,2
+E0109,Cloud(AWS/Azure),1
+E0109,Java,1
+E0109,Kubernetes,4
+E0109,Information Security,2
+E0110,Python,3
+E0110,ITSM,3
+E0110,Kubernetes,3
+E0111,Network,4
+E0111,Project Management,3
+E0111,Cloud(AWS/Azure),3
+E0111,Information Security,4
+E0112,Cloud(AWS/Azure),2
+E0112,Network,4
+E0112,SQL,4
+E0112,Project Management,5
+E0113,Network,3
+E0113,Information Security,1
+E0113,SQL,3
+E0114,Information Security,2
+E0114,Python,4
+E0114,Kubernetes,2
+E0114,Network,3
+E0115,Cloud(AWS/Azure),4
+E0115,Network,1
+E0115,Python,1
+E0115,Kubernetes,3
+E0116,ERP/Business,2
+E0116,Data Analysis,4
+E0116,Network,4
+E0116,ITSM,3
+E0117,Network,2
+E0117,Java,3
+E0117,Cloud(AWS/Azure),3
+E0117,ERP/Business,2
+E0117,ITSM,4
+E0118,Cloud(AWS/Azure),2
+E0118,Python,2
+E0118,ITSM,2
+E0118,Kubernetes,4
+E0119,Network,4
+E0119,Cloud(AWS/Azure),4
+E0119,ITSM,2
+E0120,Network,3
+E0120,Cloud(AWS/Azure),4
+E0120,Python,3
+E0120,Kubernetes,4
+E0120,ERP/Business,2
+E0121,Cloud(AWS/Azure),3
+E0121,Kubernetes,2
+E0121,Network,3
+E0122,Information Security,4
+E0122,Network,2
+E0122,Java,3
+E0123,Cloud(AWS/Azure),5
+E0123,SQL,2
+E0123,ITSM,4
+E0123,ML/DL,3
+E0124,ITSM,2
+E0124,Network,3
+E0124,Cloud(AWS/Azure),3
+E0124,Python,3
+E0124,Information Security,4
+E0125,Network,2
+E0125,Cloud(AWS/Azure),4
+E0125,Java,4
+E0126,Cloud(AWS/Azure),2
+E0126,Network,4
+E0126,Information Security,2
+E0126,Kubernetes,5
+E0127,ERP/Business,3
+E0127,Java,2
+E0127,Cloud(AWS/Azure),3
+E0127,Network,2
+E0128,Data Analysis,2
+E0128,Information Security,2
+E0128,Network,3
+E0128,Python,4
+E0129,ITSM,3
+E0129,Python,2
+E0129,Network,3
+E0129,Cloud(AWS/Azure),2
+E0129,Project Management,5
+E0130,Project Management,3
+E0130,Network,3
+E0130,Kubernetes,2
+E0130,Cloud(AWS/Azure),2
+E0131,ITSM,3
+E0131,Cloud(AWS/Azure),1
+E0131,SQL,2
+E0132,Kubernetes,4
+E0132,Network,5
+E0132,Project Management,3
+E0132,Cloud(AWS/Azure),4
+E0132,Data Analysis,4
+E0133,Information Security,2
+E0133,Network,3
+E0133,Python,2
+E0133,Cloud(AWS/Azure),3
+E0133,Kubernetes,4
+E0134,SQL,2
+E0134,Information Security,2
+E0134,Project Management,3
+E0135,Network,2
+E0135,Kubernetes,4
+E0135,Cloud(AWS/Azure),3
+E0135,ITSM,3
+E0135,ML/DL,1
+E0136,Kubernetes,3
+E0136,Cloud(AWS/Azure),3
+E0136,Python,2
+E0137,Cloud(AWS/Azure),2
+E0137,Project Management,2
+E0137,Network,1
+E0138,ERP/Business,3
+E0138,Cloud(AWS/Azure),1
+E0138,Information Security,4
+E0138,ITSM,4
+E0138,Kubernetes,4
+E0139,ITSM,3
+E0139,Network,3
+E0139,Cloud(AWS/Azure),3
+E0139,Kubernetes,2
+E0140,Cloud(AWS/Azure),5
+E0140,Network,4
+E0140,Kubernetes,4
+E0140,Project Management,4
+E0140,Python,5
+E0141,Data Analysis,4
+E0141,Kubernetes,4
+E0141,Python,3
+E0142,Python,2
+E0142,ML/DL,1
+E0142,Data Analysis,4
+E0143,ML/DL,5
+E0143,Python,4
+E0143,Cloud(AWS/Azure),5
+E0144,ML/DL,1
+E0144,Python,2
+E0144,Cloud(AWS/Azure),3
+E0144,SQL,3
+E0145,ITSM,4
+E0145,Project Management,1
+E0145,Kubernetes,2
+E0145,Python,4
+E0145,Data Analysis,3
+E0146,Cloud(AWS/Azure),3
+E0146,SQL,1
+E0146,ITSM,2
+E0146,ML/DL,2
+E0146,Python,4
+E0147,ML/DL,1
+E0147,Project Management,2
+E0147,Java,2
+E0147,ERP/Business,2
+E0147,Python,4
+E0148,Cloud(AWS/Azure),3
+E0148,Data Analysis,3
+E0148,ITSM,3
+E0149,SQL,3
+E0149,Python,2
+E0149,Cloud(AWS/Azure),2
+E0150,Python,3
+E0150,Java,3
+E0150,ML/DL,3
+E0151,SQL,3
+E0151,Python,3
+E0151,Data Analysis,3
+E0151,Information Security,3
+E0151,ML/DL,2
+E0152,Python,5
+E0152,SQL,5
+E0152,ERP/Business,4
+E0152,ML/DL,5
+E0153,Cloud(AWS/Azure),4
+E0153,Python,3
+E0153,SQL,2
+E0153,Project Management,2
+E0153,ERP/Business,4
+E0154,Python,3
+E0154,SQL,2
+E0154,ML/DL,3
+E0155,Cloud(AWS/Azure),3
+E0155,SQL,3
+E0155,Data Analysis,3
+E0156,Python,2
+E0156,Data Analysis,1
+E0156,Information Security,4
+E0156,Kubernetes,3
+E0156,ML/DL,3
+E0157,Java,3
+E0157,Python,3
+E0157,Cloud(AWS/Azure),2
+E0158,Python,3
+E0158,Data Analysis,2
+E0158,ERP/Business,3
+E0158,Information Security,3
+E0158,Cloud(AWS/Azure),4
+E0159,Project Management,4
+E0159,Python,3
+E0159,ERP/Business,3
+E0159,Data Analysis,4
+E0159,Kubernetes,2
+E0160,Cloud(AWS/Azure),2
+E0160,Java,3
+E0160,SQL,3
+E0161,Java,5
+E0161,Cloud(AWS/Azure),3
+E0161,Python,4
+E0162,ITSM,5
+E0162,Data Analysis,4
+E0162,Python,5
+E0162,Cloud(AWS/Azure),4
+E0163,Kubernetes,3
+E0163,Data Analysis,3
+E0163,Python,3
+E0164,SQL,2
+E0164,Kubernetes,2
+E0164,ML/DL,2
+E0165,Project Management,3
+E0165,Network,4
+E0165,SQL,4
+E0165,Cloud(AWS/Azure),4
+E0165,Kubernetes,4
+E0166,SQL,3
+E0166,ERP/Business,3
+E0166,ITSM,3
+E0167,Data Analysis,5
+E0167,Project Management,4
+E0167,Cloud(AWS/Azure),4
+E0167,ERP/Business,5
+E0168,ERP/Business,4
+E0168,ITSM,4
+E0168,Java,4
+E0168,Project Management,5
+E0169,ERP/Business,2
+E0169,Project Management,2
+E0169,Data Analysis,3
+E0170,Project Management,2
+E0170,Cloud(AWS/Azure),3
+E0170,Data Analysis,3
+E0170,Information Security,2
+E0170,Kubernetes,3
+E0171,Java,3
+E0171,Network,4
+E0171,Python,5
+E0171,ITSM,2
+E0172,Project Management,4
+E0172,ERP/Business,4
+E0172,Java,4
+E0173,Python,4
+E0173,Java,1
+E0173,Project Management,2
+E0173,SQL,5
+E0174,ERP/Business,4
+E0174,Cloud(AWS/Azure),1
+E0174,Project Management,3
+E0174,Information Security,4
+E0174,Kubernetes,4
+E0175,SQL,2
+E0175,Python,3
+E0175,Java,2
+E0175,ERP/Business,5
+E0175,ML/DL,3
+E0176,Project Management,5
+E0176,ERP/Business,4
+E0176,Information Security,4
+E0176,Data Analysis,5
+E0176,SQL,5
+E0177,SQL,2
+E0177,Information Security,3
+E0177,ERP/Business,3
+E0178,ITSM,3
+E0178,SQL,3
+E0178,Project Management,2
+E0178,Data Analysis,3
+E0179,ITSM,3
+E0179,ERP/Business,3
+E0179,Cloud(AWS/Azure),4
+E0180,Project Management,3
+E0180,SQL,4
+E0180,ML/DL,4
+E0180,Java,5
+E0180,ERP/Business,4
+E0181,ERP/Business,2
+E0181,Network,3
+E0181,Project Management,2
+E0182,ERP/Business,2
+E0182,Cloud(AWS/Azure),2
+E0182,Project Management,3
+E0182,Data Analysis,2
+E0182,Python,3
+E0183,SQL,1
+E0183,Data Analysis,3
+E0183,Project Management,2
+E0184,Project Management,5
+E0184,Data Analysis,4
+E0184,ERP/Business,4
+E0184,Cloud(AWS/Azure),5
+E0185,Project Management,2
+E0185,ITSM,3
+E0185,ERP/Business,4
+E0186,Kubernetes,4
+E0186,ERP/Business,4
+E0186,Project Management,2
+E0186,Python,3
+E0186,Information Security,3
+E0187,SQL,2
+E0187,ML/DL,2
+E0187,ERP/Business,2
+E0187,Cloud(AWS/Azure),4
+E0187,Data Analysis,3
+E0188,ERP/Business,5
+E0188,Project Management,2
+E0188,Data Analysis,3
+E0188,Python,3
+E0189,Data Analysis,4
+E0189,Project Management,2
+E0189,ERP/Business,4
+E0189,Java,5
+E0190,Python,4
+E0190,Data Analysis,4
+E0190,Project Management,3
+E0190,ERP/Business,4
+E0191,Python,4
+E0191,Project Management,3
+E0191,ITSM,1
+E0192,Python,4
+E0192,ERP/Business,2
+E0192,SQL,4
+E0192,Cloud(AWS/Azure),3
+E0192,Project Management,3
+E0193,SQL,3
+E0193,Project Management,3
+E0193,ERP/Business,5
+E0193,Data Analysis,2
+E0193,Network,4
+E0194,ITSM,4
+E0194,Data Analysis,3
+E0194,Project Management,2
+E0194,Cloud(AWS/Azure),4
+E0194,ERP/Business,4
+E0195,Data Analysis,4
+E0195,SQL,4
+E0195,Project Management,3
+E0195,ERP/Business,3
+E0196,ITSM,5
+E0196,Network,4
+E0196,Cloud(AWS/Azure),4
+E0196,ERP/Business,3
+E0197,ITSM,5
+E0197,Kubernetes,4
+E0197,Network,5
+E0198,ITSM,4
+E0198,Java,2
+E0198,Network,3
+E0198,Cloud(AWS/Azure),1
+E0199,Cloud(AWS/Azure),4
+E0199,ITSM,4
+E0199,SQL,2
+E0199,Network,3
+E0199,Java,3
+E0200,ITSM,2
+E0200,SQL,3
+E0200,Python,3
+E0200,Kubernetes,2
+E0200,Network,2
+E0201,ERP/Business,3
+E0201,Cloud(AWS/Azure),4
+E0201,SQL,4
+E0201,ITSM,4
+E0202,ML/DL,2
+E0202,SQL,2
+E0202,ITSM,3
+E0202,Java,2
+E0203,Information Security,3
+E0203,ITSM,4
+E0203,Network,3
+E0203,Java,2
+E0203,SQL,4
+E0204,ITSM,4
+E0204,Java,3
+E0204,Network,3
+E0205,Java,3
+E0205,ERP/Business,1
+E0205,Data Analysis,3
+E0205,Network,3
+E0206,Network,3
+E0206,Information Security,4
+E0206,Cloud(AWS/Azure),2
+E0207,Network,5
+E0207,ITSM,2
+E0207,Kubernetes,2
+E0208,Kubernetes,2
+E0208,Network,3
+E0208,ITSM,2
+E0208,ERP/Business,1
+E0208,Information Security,3
+E0209,ITSM,4
+E0209,Python,5
+E0209,Data Analysis,3
+E0210,ERP/Business,2
+E0210,ITSM,5
+E0210,Project Management,4
+E0210,SQL,4
+E0210,Network,4
+E0211,Python,3
+E0211,ITSM,4
+E0211,Data Analysis,4
+E0211,SQL,4
+E0212,ITSM,4
+E0212,Cloud(AWS/Azure),4
+E0212,Information Security,3
+E0212,Kubernetes,4
+E0213,ITSM,3
+E0213,Python,1
+E0213,Network,2
+E0213,Project Management,2
+E0214,Java,3
+E0214,Network,3
+E0214,Cloud(AWS/Azure),2
+E0214,SQL,3
+E0215,Java,3
+E0215,ERP/Business,3
+E0215,SQL,3
+E0215,Network,3
+E0216,Python,5
+E0216,ITSM,5
+E0216,Network,4
+E0216,SQL,5
+E0216,Kubernetes,5
+E0217,Network,2
+E0217,Java,4
+E0217,ITSM,5
+E0217,Cloud(AWS/Azure),3
+E0217,Data Analysis,4
+E0218,Python,2
+E0218,ERP/Business,2
+E0218,SQL,3
+E0219,SQL,4
+E0219,ITSM,3
+E0219,Data Analysis,3
+E0219,Cloud(AWS/Azure),3
+E0220,Cloud(AWS/Azure),3
+E0220,Network,4
+E0220,SQL,3
+E0220,Project Management,1
+E0220,ITSM,3
+E0221,Java,2
+E0221,Network,2
+E0221,Cloud(AWS/Azure),2
+E0221,ITSM,4
+E0221,SQL,3
+E0222,ERP/Business,2
+E0222,Java,1
+E0222,ITSM,2
+E0223,ITSM,5
+E0223,Cloud(AWS/Azure),4
+E0223,Network,5
+E0224,Kubernetes,3
+E0224,ITSM,4
+E0224,Project Management,4
+E0225,Java,2
+E0225,Cloud(AWS/Azure),5
+E0225,SQL,3
+E0225,ERP/Business,4
+E0226,Data Analysis,2
+E0226,ITSM,5
+E0226,ERP/Business,3
+E0226,Project Management,4
+E0226,Network,3
+E0227,SQL,4
+E0227,Cloud(AWS/Azure),5
+E0227,Network,3
+E0228,ITSM,5
+E0228,Data Analysis,5
+E0228,Python,5
+E0229,Cloud(AWS/Azure),2
+E0229,SQL,2
+E0229,Java,3
+E0230,ITSM,3
+E0230,ERP/Business,4
+E0230,Cloud(AWS/Azure),4
+E0230,Python,4
+E0231,Cloud(AWS/Azure),3
+E0231,Network,3
+E0231,SQL,2
+E0232,SQL,4
+E0232,Network,2
+E0232,Cloud(AWS/Azure),2
+E0232,Data Analysis,3
+E0232,Information Security,2
+E0233,ITSM,2
+E0233,Python,3
+E0233,Cloud(AWS/Azure),3
+E0233,SQL,1
+E0233,ERP/Business,3
+E0234,Kubernetes,4
+E0234,SQL,3
+E0234,Data Analysis,4
+E0235,Network,3
+E0235,ITSM,5
+E0235,Java,2
+E0236,Network,5
+E0236,Python,4
+E0236,ITSM,3
+E0236,Kubernetes,3
+E0236,Cloud(AWS/Azure),4
+E0237,SQL,4
+E0237,Python,4
+E0237,Network,5
+E0237,ITSM,4
+E0238,ITSM,3
+E0238,Network,3
+E0238,Cloud(AWS/Azure),3
+E0239,SQL,2
+E0239,ITSM,3
+E0239,Kubernetes,3
+E0239,Python,2
+E0239,Cloud(AWS/Azure),4
+E0240,Network,3
+E0240,Information Security,2
+E0240,Data Analysis,3
+E0240,Java,3
+E0241,Network,4
+E0241,ITSM,4
+E0241,Cloud(AWS/Azure),4
+E0241,Java,3
+E0242,Information Security,4
+E0242,Python,4
+E0242,ITSM,2
+E0242,Java,3
+E0242,Cloud(AWS/Azure),3
+E0243,ERP/Business,4
+E0243,SQL,3
+E0243,Network,4
+E0243,ITSM,3
+E0243,Project Management,3
+E0244,Network,4
+E0244,Data Analysis,5
+E0244,Java,4
+E0244,Cloud(AWS/Azure),5
+E0244,ITSM,3
+E0245,Cloud(AWS/Azure),1
+E0245,ERP/Business,2
+E0245,ITSM,4
+E0245,Python,1
+E0246,Cloud(AWS/Azure),5
+E0246,Python,3
+E0246,Network,4
+E0247,Network,4
+E0247,Data Analysis,3
+E0247,Information Security,3
+E0247,Java,3
+E0248,Cloud(AWS/Azure),5
+E0248,Information Security,2
+E0248,Kubernetes,4
+E0248,Network,4
+E0249,Java,4
+E0249,Python,3
+E0249,Kubernetes,2
+E0249,Information Security,4
+E0249,Network,2
+E0250,Information Security,4
+E0250,SQL,3
+E0250,Kubernetes,4
+E0251,Information Security,4
+E0251,ITSM,4
+E0251,Cloud(AWS/Azure),4
+E0251,Network,2
+E0252,SQL,4
+E0252,Information Security,3
+E0252,ITSM,1
+E0252,Python,2
+E0252,Network,3
+E0253,Network,3
+E0253,Information Security,2
+E0253,Cloud(AWS/Azure),3
+E0254,Cloud(AWS/Azure),2
+E0254,Information Security,3
+E0254,Network,3
+E0254,Python,3
+E0254,ITSM,4
+E0255,Information Security,3
+E0255,ITSM,3
+E0255,Cloud(AWS/Azure),1
+E0255,Python,3
+E0255,Kubernetes,2
+E0256,Information Security,3
+E0256,Network,3
+E0256,Kubernetes,3
+E0256,Data Analysis,4
+E0257,Information Security,3
+E0257,Network,3
+E0257,Python,2
+E0258,Project Management,3
+E0258,Information Security,3
+E0258,Cloud(AWS/Azure),2
+E0258,Network,3
+E0258,ITSM,1
+E0259,Cloud(AWS/Azure),1
+E0259,Information Security,1
+E0259,Python,3
+E0260,Network,2
+E0260,Project Management,5
+E0260,Information Security,3
+E0260,Python,3
+E0260,Data Analysis,3
+E0261,Network,4
+E0261,Information Security,5
+E0261,SQL,5
+E0261,Project Management,5
+E0262,Network,4
+E0262,Information Security,4
+E0262,Python,2
+E0262,SQL,3
+E0262,Project Management,2
+E0263,Information Security,1
+E0263,ERP/Business,4
+E0263,Python,4
+E0264,Information Security,3
+E0264,ITSM,2
+E0264,Kubernetes,2
+E0265,Network,3
+E0265,Kubernetes,3
+E0265,Java,3
+E0266,Python,4
+E0266,Network,2
+E0266,Data Analysis,3
+E0266,Information Security,5
+E0267,Python,3
+E0267,ERP/Business,3
+E0267,Network,3
+E0268,ERP/Business,5
+E0268,Python,4
+E0268,SQL,2
+E0268,Data Analysis,2
+E0268,Cloud(AWS/Azure),3
+E0269,ERP/Business,5
+E0269,Information Security,4
+E0269,Data Analysis,5
+E0269,Project Management,4
+E0269,SQL,4
+E0270,Information Security,3
+E0270,SQL,5
+E0270,ERP/Business,4
+E0271,ERP/Business,2
+E0271,Data Analysis,3
+E0271,Information Security,4
+E0271,SQL,4
+E0272,SQL,4
+E0272,Cloud(AWS/Azure),4
+E0272,ERP/Business,2
+E0273,Data Analysis,3
+E0273,Information Security,3
+E0273,Project Management,5
+E0274,SQL,5
+E0274,Data Analysis,3
+E0274,Project Management,5
+E0274,Java,5
+E0275,Data Analysis,2
+E0275,Java,4
+E0275,Python,5
+E0276,Data Analysis,3
+E0276,ERP/Business,4
+E0276,Project Management,2
+E0276,Information Security,3
+E0276,Cloud(AWS/Azure),3
+E0277,Data Analysis,3
+E0277,ERP/Business,4
+E0277,Project Management,3
+E0277,SQL,3
+E0277,ITSM,3
+E0278,ERP/Business,2
+E0278,Data Analysis,3
+E0278,Cloud(AWS/Azure),2
+E0278,Java,2
+E0278,Project Management,4
+E0279,SQL,3
+E0279,Data Analysis,4
+E0279,ERP/Business,3
+E0279,Project Management,3
+E0280,Project Management,2
+E0280,ERP/Business,1
+E0280,SQL,1
+E0281,ERP/Business,4
+E0281,SQL,4
+E0281,Data Analysis,4
+E0281,Kubernetes,4
+E0281,Project Management,4
+E0282,Cloud(AWS/Azure),3
+E0282,Data Analysis,4
+E0282,SQL,4
+E0282,Python,4
+E0282,ERP/Business,3
+E0283,Data Analysis,5
+E0283,ERP/Business,3
+E0283,Network,4
+E0283,Project Management,3
+E0283,Python,3
+E0284,Project Management,2
+E0284,Data Analysis,2
+E0284,ERP/Business,3
+E0284,Python,2
+E0285,ERP/Business,4
+E0285,Data Analysis,4
+E0285,SQL,3
+E0285,Project Management,4
+E0286,ITSM,2
+E0286,Data Analysis,4
+E0286,ERP/Business,2
+E0286,Project Management,3
+E0286,SQL,5
+E0287,ERP/Business,4
+E0287,Project Management,3
+E0287,Python,3
+E0287,ITSM,2
+E0287,Information Security,3
+E0288,Data Analysis,4
+E0288,SQL,3
+E0288,ERP/Business,3
+E0288,Project Management,3
+E0289,Data Analysis,4
+E0289,Project Management,4
+E0289,ERP/Business,3
+E0290,Project Management,2
+E0290,ERP/Business,1
+E0290,SQL,3
+E0290,ITSM,3
+E0291,SQL,3
+E0291,ITSM,4
+E0291,Data Analysis,5
+E0291,ERP/Business,4
+E0292,SQL,4
+E0292,Information Security,4
+E0292,ERP/Business,3
+E0292,Java,2
+E0293,Data Analysis,4
+E0293,SQL,3
+E0293,ERP/Business,4
+E0293,Project Management,2
+E0294,Data Analysis,2
+E0294,Project Management,4
+E0294,Information Security,2
+E0295,Python,1
+E0295,SQL,2
+E0295,Project Management,2
+E0296,SQL,2
+E0296,Project Management,3
+E0296,Data Analysis,3
+E0297,Project Management,3
+E0297,SQL,2
+E0297,ERP/Business,4
+E0297,Kubernetes,4
+E0298,ERP/Business,4
+E0298,Project Management,4
+E0298,Data Analysis,3
+E0299,ERP/Business,3
+E0299,SQL,2
+E0299,Project Management,3
+E0299,Data Analysis,4
+E0299,Java,3
+E0300,ERP/Business,2
+E0300,Data Analysis,1
+E0300,Project Management,3
+E0300,SQL,3
